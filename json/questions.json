@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Humayun was born in the year ___________.",
+    "choice1": "1508",
+    "choice2": "1608",
+    "choice3": "1708",
+    "choice4": "1808",
+    "answer": 1
+  },
+  {
+    "question": "Who Invented the 3-D printer?",
+    "choice1": "Nick Holonyak",
+    "choice2": "Elias Howe",
+    "choice3": "Chuck Hull",
+    "choice4": "Christiaan Huygens",
+    "answer": 2
+  },
+  {
+    "question": " What is the maximum number of Members in Lok Sabha?",
+    "choice1": "512",
+    "choice2": "542",
+    "choice3": "552",
+    "choice4": "532",
+    "answer": 3
+  },
+  {
+    "question": "Fatehpur Sikri was founded as the capital of the Mughal Empire by ______.",
+    "choice1": "Jahangir",
+    "choice2": "Akbar",
+    "choice3": "Barcelona",
+    "choice4": "Babur",
+    "answer": 2
+  },
+  
+  {
+    "question": "Who was court poet of Samudragupta?",
+    "choice1": "Chand Bardai",
+    "choice2": "Bhavabhuti",
+    "choice3": "Banabhatta",
+    "choice4": "Harishen",
+    "answer": 4
+  }
+  
+]
